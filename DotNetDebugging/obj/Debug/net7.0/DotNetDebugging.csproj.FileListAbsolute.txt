@@ -1,0 +1,15 @@
+C:\Users\rjk23\OneDrive\dotnet\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.exe
+C:\Users\rjk23\OneDrive\dotnet\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.deps.json
+C:\Users\rjk23\OneDrive\dotnet\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.runtimeconfig.json
+C:\Users\rjk23\OneDrive\dotnet\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.dll
+C:\Users\rjk23\OneDrive\dotnet\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.pdb
+C:\Users\rjk23\OneDrive\dotnet\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.csproj.AssemblyReference.cache
+C:\Users\rjk23\OneDrive\dotnet\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjk23\OneDrive\dotnet\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\Users\rjk23\OneDrive\dotnet\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.AssemblyInfo.cs
+C:\Users\rjk23\OneDrive\dotnet\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Users\rjk23\OneDrive\dotnet\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.dll
+C:\Users\rjk23\OneDrive\dotnet\DotNetDebugging\obj\Debug\net7.0\refint\DotNetDebugging.dll
+C:\Users\rjk23\OneDrive\dotnet\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.pdb
+C:\Users\rjk23\OneDrive\dotnet\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.genruntimeconfig.cache
+C:\Users\rjk23\OneDrive\dotnet\DotNetDebugging\obj\Debug\net7.0\ref\DotNetDebugging.dll
