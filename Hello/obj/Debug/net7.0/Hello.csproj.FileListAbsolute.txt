@@ -1,0 +1,15 @@
+c:\Users\rjk23\OneDrive\dotnet\Hello\bin\Debug\net7.0\Hello.exe
+c:\Users\rjk23\OneDrive\dotnet\Hello\bin\Debug\net7.0\Hello.deps.json
+c:\Users\rjk23\OneDrive\dotnet\Hello\bin\Debug\net7.0\Hello.runtimeconfig.json
+c:\Users\rjk23\OneDrive\dotnet\Hello\bin\Debug\net7.0\Hello.dll
+c:\Users\rjk23\OneDrive\dotnet\Hello\bin\Debug\net7.0\Hello.pdb
+c:\Users\rjk23\OneDrive\dotnet\Hello\obj\Debug\net7.0\Hello.csproj.AssemblyReference.cache
+c:\Users\rjk23\OneDrive\dotnet\Hello\obj\Debug\net7.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\rjk23\OneDrive\dotnet\Hello\obj\Debug\net7.0\Hello.AssemblyInfoInputs.cache
+c:\Users\rjk23\OneDrive\dotnet\Hello\obj\Debug\net7.0\Hello.AssemblyInfo.cs
+c:\Users\rjk23\OneDrive\dotnet\Hello\obj\Debug\net7.0\Hello.csproj.CoreCompileInputs.cache
+c:\Users\rjk23\OneDrive\dotnet\Hello\obj\Debug\net7.0\Hello.dll
+c:\Users\rjk23\OneDrive\dotnet\Hello\obj\Debug\net7.0\refint\Hello.dll
+c:\Users\rjk23\OneDrive\dotnet\Hello\obj\Debug\net7.0\Hello.pdb
+c:\Users\rjk23\OneDrive\dotnet\Hello\obj\Debug\net7.0\Hello.genruntimeconfig.cache
+c:\Users\rjk23\OneDrive\dotnet\Hello\obj\Debug\net7.0\ref\Hello.dll

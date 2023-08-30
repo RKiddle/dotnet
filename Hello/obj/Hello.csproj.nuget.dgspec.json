@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\rjk23\\OneDrive\\dotnet\\DotNetDebugging\\DotNetDebugging.csproj": {}
+    "c:\\Users\\rjk23\\OneDrive\\dotnet\\Hello\\Hello.csproj": {}
   },
   "projects": {
-    "c:\\Users\\rjk23\\OneDrive\\dotnet\\DotNetDebugging\\DotNetDebugging.csproj": {
+    "c:\\Users\\rjk23\\OneDrive\\dotnet\\Hello\\Hello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\rjk23\\OneDrive\\dotnet\\DotNetDebugging\\DotNetDebugging.csproj",
-        "projectName": "DotNetDebugging",
-        "projectPath": "c:\\Users\\rjk23\\OneDrive\\dotnet\\DotNetDebugging\\DotNetDebugging.csproj",
+        "projectUniqueName": "c:\\Users\\rjk23\\OneDrive\\dotnet\\Hello\\Hello.csproj",
+        "projectName": "Hello",
+        "projectPath": "c:\\Users\\rjk23\\OneDrive\\dotnet\\Hello\\Hello.csproj",
         "packagesPath": "C:\\Users\\rjk23\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\rjk23\\OneDrive\\dotnet\\DotNetDebugging\\obj\\",
+        "outputPath": "c:\\Users\\rjk23\\OneDrive\\dotnet\\Hello\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rjk23\\AppData\\Roaming\\NuGet\\NuGet.Config",
